@@ -1,0 +1,102 @@
+body {
+	background: #8080801a;
+}
+
+span {
+	color: red;
+	font-style: italic;
+}
+.chonHinh {
+	width: 275px;
+    height: 80%;
+    background: #8bc34a69;
+    border-radius: 25px;
+    position: absolute;
+    top: 60px; 
+}
+.khungPost {
+margin: 0 auto;
+background: #fff;
+height: 600px;
+border-radius: 10px;
+}
+
+#formPost {
+	width: 90%;
+    height: 100%;
+    position: relative;
+    margin: auto;
+}
+
+.bang {
+	position: absolute;
+    right: 0px;
+    top: 75px;
+    width: 280px;
+}
+
+.cmt {
+	position: absolute;
+    right: 165px;
+    bottom: 125px;
+    font-weight: bold;
+}
+
+.noidung {
+	position: absolute;
+    right: 0;
+    top: 128px;
+    font-weight: bold;
+}
+
+.btnThem {
+	position: absolute;
+    right: 0;
+    width: 280px;
+    bottom: 75px;
+    text-align: center;
+}
+
+.photoInput {
+	height: 100%;
+    opacity: 0;
+    width: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    opacity: 0;
+    cursor: pointer;
+}
+
+.logoUpload {
+	position: absolute;
+	width: 100px;
+	text-align: center;
+	margin-top: 160px;
+	margin-left: 90px;
+	opacity: 0.5;
+}
+
+#textUpload {
+	text-align: center;
+    margin-top: 260px;
+}
+
+.btn.btn-primary {
+	width: 150px;
+    border: 2px #8bc34a solid;
+    color: #8bc34a;
+    font-weight: bold;
+    background: #fff;
+}
+
+.btn.btn-primary:hover {
+    color: #fff;
+    background: #8bc34a;
+}
+
+.input-group-text {
+	font-weight: bold;
+    background: #8bc34a;
+    color: #fff;
+}

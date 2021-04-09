@@ -1,0 +1,138 @@
+button.button-ls {
+	width: 130px;
+	margin: 10px 0 5px 0;
+	font-weight: bold;
+}
+
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html, body {
+	background-image: url('images/backgroundhome.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+	height: 100%;
+	font-family: 'Numans', sans-serif;
+}
+
+.container {
+	display: flex;
+	height: 100%;
+	justify-content: center;
+	align-items: center;
+	align-content: center;
+}
+
+.card123 {
+	width: 400px;
+	position: absolute;
+	left: 50%;
+	top: 50%;
+	transform: translate(-50%, -50%);
+	background-color: rgba(2, 68, 62, 0.31) !important;
+}
+
+.input-group-prepend span {
+	background-color:#8BC34A !important;
+	width: 40px;
+	background-color: #8BC34A;
+	color: black;
+	border: 0 !important;
+}
+
+input:focus {
+	outline: 0 0 0 0 !important;
+	box-shadow: 0 0 0 0 !important;
+}
+
+.remember {
+	color: white;
+}
+
+.remember input {
+	width: 20px;
+	height: 20px;
+	margin-left: 15px;
+	margin-right: 5px;
+}
+
+.text-center, h5.login-title, h5.sign-title {
+	color: snow;
+}
+
+h5.login-title, h5.sign-title {
+	margin-bottom: 15px;
+	text-align: center;
+	font-size: 18px;
+	font-style: italic;
+}
+
+.login-form, .sign-form {
+	text-align: center;
+}
+
+form {
+	width: 358px;
+	margin: auto;
+}
+
+.btn-primary {
+	background-color: #8BC34A;
+	border-color: #8BC34A;
+}
+
+.btn-primary:hover {
+	background-color: #ff3511;
+	border-color: #ff3511;
+}
+
+.btn-info {
+	color: #fff;
+	background-color: #ff3511;
+	border-color: #ff3511;
+}
+
+.btn-info:hover {
+	background-color: #ffca12;
+	border-color: #ffca12;
+}
+
+button.btn-facebook {
+	background-color: #0273ce;
+	border-color: #0273ce;
+}
+
+img.logoUI {
+	width: 250px;
+	margin-top: 20px;
+}
+
+div.last-name {
+	float: left;
+	width: 175px;
+}
+
+div.fisrt-name {
+	float: left;
+	width: 175px;
+	margin-left: 8px;
+}
+
+.welcome-to-me {
+	text-align: center;
+}
+
+.email-input {
+	width: 250px;
+    float: left;
+    margin-right: 8px;
+}
+
+.gender-input {
+	width: 100px;
+	height: 38px;
+}
+
+.gender-select {
+	border-bottom-right-radius: 5px;
+    border-top-right-radius: 5px;
+}

@@ -1,0 +1,74 @@
+.rowtren {
+	height: 150px;
+}
+
+.bentrai {
+	position: relative;
+}
+
+.benphai {
+	position: relative;
+}
+
+img.authoravatar {
+	width: 100px;
+    height: 100px;
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    margin-top: -50px;
+    margin-left: -50px;
+}
+
+.navbar.navbar-expand-sm.bg-light {
+	width: 210px;
+    padding: 0;
+}
+
+.bentrai-trong {
+	position: absolute;
+	left: 50%;
+    top: 50%;
+    margin-left: -105px;
+    margin-top: -50px;
+}
+
+.tenauthor {
+	text-align: center;
+    margin-top: 10px;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.tab-content {
+	margin-top: 20px;
+}
+
+.div-bang {
+	max-height: 150px;
+}
+
+.imgTable {
+	width: 120px;
+    margin-left: 81px;
+}
+
+.divBu {
+	    border: 5px #9e9e9e30 solid;
+}
+
+.divBu:hover {
+	    border: 5px #8bc34ad4 solid;
+	    color: #8bc34ad4;
+	    text-decoration: none;
+}
+
+.cName {
+	background: #ededed;
+	text-align: center;
+    font-weight: bold;
+}
+
+.tenUser {
+	margin: 10px 10px 0 10px;
+}
